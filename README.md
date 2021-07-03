@@ -1,16 +1,16 @@
-# coffee_app
+# Flutter coffee_app UI Speed Code With Getx
 
-A new Flutter project.
+A new Flutter Speed Code UI Project on my Youtube Channel .
 
-## Getting Started
+## About The Project 
 
-This project is a starting point for a Flutter application.
+Create a beautiful Flutter UI Coffe App With Getx State Management & Get CLI  
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+- [The full tutrial](https://youtu.be/RU5f6YPBvv8)
+- [My youtube Channel](https://www.youtube.com/channel/UCnUh8WaDvVs1b0CbOv7UaWQ)
+
+![ScreenShot](CoffeApp.jpg)
