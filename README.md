@@ -32,12 +32,13 @@ Instructions on how to use them in your own application are linked below.
 | Sliding Panel | https://pub.dev/packages/sliding_up_panel      |
 | Native Splash | https://pub.dev/packages/flutter_native_splash |
 
+#Screen Shots
 
 </br>
 
 | Screen Shot                              | Screen Shot                              |
 | ---------------------------------------- | ---------------------------------------- |
-| ![ScreenShot](images/splash.png) | ![ScreenShot](images/Screen_Shot_01.jpg) |
+| ![ScreenShot](images/splash.png) | ![ScreenShot](images/Screen_Shot_01.png) |
 | Screen Shot                              | Screen Shot                              |
 | ![ScreenShot](images/Screen_Shot_02.png) | ![ScreenShot](images/Screen_Shot_03.png) |
 | Screen Shot                              | 
