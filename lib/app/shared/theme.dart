@@ -11,6 +11,7 @@ class CustomTheme {
 
   static ThemeData get darkTheme {
     return ThemeData(
+      brightness: Brightness.dark,
       primaryColor: KDarkBackgound,
       scaffoldBackgroundColor: KDarkBackgound,
       cardColor: KCardColor,

@@ -1,5 +1,6 @@
 import 'package:coffee_app/app/modules/coffeePage/views/buildCoffeeCard.dart';
 import 'package:coffee_app/app/modules/coffeePage/views/buildPopularCoffe.dart';
+import 'package:coffee_app/app/routes/app_pages.dart';
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
@@ -15,16 +16,14 @@ class CoffeePageView extends GetView<CoffeePageController> {
         children: [
           Container(
             height: 440,
-            child: ListView(
-              physics: BouncingScrollPhysics(),
+            child: ListView.builder(
               scrollDirection: Axis.horizontal,
-              children: controller.coffee
-                  .map((coffee) => GestureDetector(
-                        onTap: () {},
-                        child: BuildCoffeeCard(
-                            coffee, controller.coffee.indexOf(coffee)),
-                      ))
-                  .toList(),
+              itemCount: controller.coffee.length,
+              itemBuilder: (context, index) => GestureDetector(
+                child: BuildCoffeeCard(controller.coffee[index]),
+                onTap: () => Get.toNamed(Routes.DETAILS,
+                    arguments: controller.coffee[index]),
+              ),
             ),
           ),
           SizedBox(
