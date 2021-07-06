@@ -27,13 +27,18 @@ Instructions on how to use them in your own application are linked below.
 
 | Plugin        | Link                                                   |
 | ------------- | ------------------------------------------------------ |
-| GetX          | [https://pub.dev/packages/get][pldb]                   |
-| Get CLI       | [https://pub.dev/packages/get_cli][pldb]               |
-| Sliding Panel | [https://pub.dev/packages/sliding_up_panel][pldb]      |
-| Native Splash | [https://pub.dev/packages/flutter_native_splash][plgh] |
+| GetX          | https://pub.dev/packages/get                   |
+| Get CLI       | https://pub.dev/packages/get_cli               |
+| Sliding Panel | https://pub.dev/packages/sliding_up_panel      |
+| Native Splash | https://pub.dev/packages/flutter_native_splash |
+
+
+</br>
 
 | Screen Shot                              | Screen Shot                              |
 | ---------------------------------------- | ---------------------------------------- |
-| ![ScreenShot](images/Screen_Shot_01.jpg) | ![ScreenShot](images/Screen_Shot_02.jpg) |
-| ![ScreenShot](images/Screen_Shot_03.jpg) | ![ScreenShot](images/Screen_Shot_04.jpg) |
-| ![ScreenShot](images/splash.jpg)         |
+| ![ScreenShot](images/splash.png) | ![ScreenShot](images/Screen_Shot_01.jpg) |
+| Screen Shot                              | Screen Shot                              |
+| ![ScreenShot](images/Screen_Shot_02.png) | ![ScreenShot](images/Screen_Shot_03.png) |
+| Screen Shot                              | 
+| ![ScreenShot](images/Screen_Shot_04.png)         |
