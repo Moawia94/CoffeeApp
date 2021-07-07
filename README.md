@@ -17,7 +17,7 @@ Create Details Page
 > Links : for the tutrials Videos
 
 - [Part#01 tutrial](https://youtu.be/RU5f6YPBvv8)
-- [Part#02 tutrial](https://youtu.be/RU5f6YPBvv8)
+- [Part#02 tutrial](https://www.youtube.com/watch?v=Xx87CvOqd3U)
 - [My youtube Channel](https://www.youtube.com/channel/UCnUh8WaDvVs1b0CbOv7UaWQ)
 
 ## Plugins
